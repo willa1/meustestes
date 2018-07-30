@@ -1,2 +1,2 @@
-# Made in Code Blocks 17.12
+# Temperature conversion program.
 Isso são meus teste de estudo
