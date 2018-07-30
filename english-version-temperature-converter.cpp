@@ -1,3 +1,5 @@
+//Made in Code Blocks 17.12
+//Linux Manjaro
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
